@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactjs-threejs/static/css/main.54716b50.chunk.css",
+    "main.js": "/reactjs-threejs/static/js/main.fdc8ab7c.chunk.js",
+    "main.js.map": "/reactjs-threejs/static/js/main.fdc8ab7c.chunk.js.map",
+    "runtime-main.js": "/reactjs-threejs/static/js/runtime-main.e450d16a.js",
+    "runtime-main.js.map": "/reactjs-threejs/static/js/runtime-main.e450d16a.js.map",
+    "static/js/2.ed2d6d25.chunk.js": "/reactjs-threejs/static/js/2.ed2d6d25.chunk.js",
+    "static/js/2.ed2d6d25.chunk.js.map": "/reactjs-threejs/static/js/2.ed2d6d25.chunk.js.map",
+    "index.html": "/reactjs-threejs/index.html",
+    "precache-manifest.986eaee62a63a794954bc7378e9a32c5.js": "/reactjs-threejs/precache-manifest.986eaee62a63a794954bc7378e9a32c5.js",
+    "service-worker.js": "/reactjs-threejs/service-worker.js",
+    "static/css/main.54716b50.chunk.css.map": "/reactjs-threejs/static/css/main.54716b50.chunk.css.map",
+    "static/js/2.ed2d6d25.chunk.js.LICENSE.txt": "/reactjs-threejs/static/js/2.ed2d6d25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e450d16a.js",
+    "static/js/2.ed2d6d25.chunk.js",
+    "static/css/main.54716b50.chunk.css",
+    "static/js/main.fdc8ab7c.chunk.js"
+  ]
+}
