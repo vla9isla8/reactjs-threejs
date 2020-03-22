@@ -63,7 +63,7 @@ function ThreeViewer({className}:{className?: string}) {
             const render = () => {
                 renderer.render(scene,camera);
             }
-            loader.load( "/3d/DamagedHelmet.gltf", function ( gltf ) {
+            loader.load( process.env.PUBLIC_URL + "/3d/DamagedHelmet.gltf", function ( gltf ) {
                 scene.add( gltf.scene );
                 render(); 
             }, undefined, function ( error ) {
