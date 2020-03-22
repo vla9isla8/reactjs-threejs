@@ -1,7 +1,8 @@
 {
-  "name": "reactjs-treejs",
+  "name": "reactjs-threejs",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vla9isla8.github.io/reactjs-threejs",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -13,6 +14,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
+    "three": "^0.114.0",
     "typescript": "~3.7.2"
   },
   "scripts": {
